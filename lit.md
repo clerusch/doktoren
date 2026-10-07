@@ -4,4 +4,5 @@
 - https://ora.ox.ac.uk/objects/uuid%3A0037737b-e9ab-44b3-be48-65d3491e3f1b/files/d9880vr71p
 
 # Vorschlaege
-- Lass vlt auch das Oxford Buch (dritter link) mal durchgehen zusaetzlich zu dem aelteren Categories for Quantum Buch ?
+- Lass vlt auch das Oxford Buch (dritter link) mal durchgehen zusaetzlich zu dem aelteren Categories for Quantum Buch?
+In dem gibts zumindest full-classical aufschluesselung von hybriden spinnen: ![hybridspinne](image.png)
